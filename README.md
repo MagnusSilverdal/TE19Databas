@@ -19,11 +19,12 @@ Ni kan lägga till
 Tänk på att börja med rätt saker
 1. Skapa ett enkelt gui i er MVC, ni kan alltid snygga till det senare
 2. Se till att det finns möjlighet att skriva in inloggningsuppgifter och sökvägar
-3. Börja med att visa innehållet i databasen, ska en metod i modellen som hämtar informationen och returnerar det efterfrågade innehållet i lämpligt format.
-4. Sedan kan ni lägga till "lägg till" t.ex som en knapp. Informationen kan läggas in på valfritt sätt, JTextFields eller JOptionPanes eller ett separat fönster. Använd samma SQL-kod som ni användt hos Jens!
+3. Börja med att visa innehållet i databasen, skapa en metod i modellen som hämtar informationen och returnerar det efterfrågade innehållet i lämpligt format.
+4. Sedan kan ni lägga till "lägg till" t.ex som en knapp. Informationen kan läggas in på valfritt sätt, JTextFields eller JOptionPanes eller ett separat fönster. Använd samma SQL-kod som ni användt hos Jens! Kolla hur Actionlistenern i controllen kopplas till knappen och aktiverar metoden i modellen.
 5. Nästa steg blir "ta bort". Fundera hur du ska välja vilken som ska tas bort. kryssrutor, markeringar eller ange ett id
 6. Sista steget blir redigera. Samma som ovan.
 
 Kom ihåg att du måste ha databasen igång när du testar!
 
 Projektet avslutas med ett PM där du utvärderar ditt arbete och berättar vad du tar med dig från det.
+Klart torsdag vecka 17.
